@@ -41,4 +41,4 @@ scHCL_vis(hcl_result)
 ```
 
 scZCL_vis() provides a bref function for visualizing and downloading of scZCL results
-https://github.com/xioagedeningjinghai/scZCL/pull/1/commits/e76d8ce01ddb5c4c0f3d354230509bdf1bc01c5f#diff-86e2f6b59f3e1e87b8d2284896455a7a
+![scZCL.png](https://i.loli.net/2020/07/05/8PQ3seyUIaEHZXf.png)
