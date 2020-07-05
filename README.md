@@ -21,8 +21,8 @@ library(scZCL)
 # zcl_caudalfin is an example expression matrix from ZCL project.
 > data(zcl_caudalfin)
 > dim(zcl_caudalfin)
-[1] 2884   80
-# 2884 genes expression value of 80 cells
+[1] 2000   380
+# 2000 genes expression value of 380 cells
 
 # scZCL has two parameters , single cell expression matrix(scdata) and 
 # the number of most similar cell types
